@@ -29,6 +29,9 @@ body {
   min-width: calc(70% - var(--s1));
   background-color: white;
   color: black;
-  font-size: 16pt;
-  padding: 50px;
+  padding-left: 50px;
+}
+
+p {
+  margin: 0;
 }
